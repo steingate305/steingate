@@ -1,7 +1,5 @@
 ## Developer / Tinkerer / Absurdist
 
-![Photo of Nitin Kumar](/img/nitink.jpeg)
-
 I am a hobbyist software developer and a tinkerer.
 
 For a brief period, I was in academia—at the Middlesex University, London—doing research, from where I obtained a BSc. in Computer Science (2008) and a PhD in Artificial Intelligence & Computational Linguistics (2011).
